@@ -34,8 +34,8 @@ h2{
 	font-family: 'Pacifico', cursive !important;
 }
 h3 {
-	padding: 0 !important;
-	margin: 0 !important;
+	padding: 0 !importantq;
+	margin: 0 !importantq;
 }
 li {
 	display: inline-block;
@@ -74,4 +74,12 @@ footer {
 	background-color: #421B3B;
 	color: #F4F0D8;
 	margin-top: 5%;
+}
+
+@media screen and (max-width: 600px) {
+	img.fotoChic {
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+}
 }
