@@ -1,1 +1,32 @@
 /*main*/
+/*img*/
+img.fotoChic {
+	width: 100%;
+	height: 350px;
+	border-radius: 50%;
+}
+h2 {
+	text-align: center !important;
+}
+li {
+	display: inline-block;
+	margin: 5px;
+	text-align: center;
+	padding: 5px;
+
+}
+
+a {
+	text-decoration: none;
+	color: #000000;
+/*espacios*/
+}
+.min {
+	font-size: 80%;
+}
+.mar5 {
+	margin: 5% 0;
+}
+.pad3Top {
+	padding-top: 3%;
+}
