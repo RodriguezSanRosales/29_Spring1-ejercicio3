@@ -1,12 +1,41 @@
 /*main*/
+.bgnav {
+	background-color: ;
+	color: white;
+}
+p {
+	font-family:  sans-serif;
+}
 /*img*/
 img.fotoChic {
-	width: 100%;
-	height: 350px;
+	width: 70%;
+	height: 250px;
 	border-radius: 50%;
 }
-h2 {
+.logoImg {
+	width: 100%;
+	height: 100px;
+	padding: 0 2%;
+}
+/*seccion inicio*/
+h1 {
+	font-family: 'Pacifico', cursive !important;
+	margin-top: 0;
+	padding-top: 0;
+}
+.fondoBlo {
+	background-color: ;
+	border: solid #F26184 2px;
+	margin-top: 4%;
+	padding: 2%;
+}
+h2{
 	text-align: center !important;
+	font-family: 'Pacifico', cursive !important;
+}
+h3 {
+	padding: 0 !important;
+	margin: 0 !important;
 }
 li {
 	display: inline-block;
@@ -15,18 +44,34 @@ li {
 	padding: 5px;
 
 }
+/*footer*/
+h4 {
+	color: #01DFD7 !important;
+}
+i {
+	color: white;
+}
 
 a {
 	text-decoration: none;
-	color: #000000;
-/*espacios*/
+	
 }
+
+
+/*espacios*/
+
 .min {
 	font-size: 80%;
 }
 .mar5 {
 	margin: 5% 0;
 }
+
 .pad3Top {
-	padding-top: 3%;
+	padding-top: 15%;
+}
+footer {
+	background-color: #421B3B;
+	color: #F4F0D8;
+	margin-top: 5%;
 }
